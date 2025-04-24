@@ -113,6 +113,94 @@
       "chainId": 126,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/PIPI.png"
+    },
+    {
+      "name": "SolvBTC",
+      "symbol": "solvBTC",
+      "address": "0x527c43638a6c389a9ad702e7085f31c48223624d5102a5207dfab861f482c46d",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/solvBTC.png"
+    },
+    {
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "address": "0x658f4ef6f76c8eeffdc06a30946f3f06723a7f9532e2413312b2a612183759c",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/LBTC.png"
+    },
+    {
+      "name": "Lorenzo Wrapped Bitcoin",
+      "symbol": "enzoBTC",
+      "address": "0xff91f0df99b217436229b85ae900a2b67970eda92a88b06eb305949ec9828ed6",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/enzoBTC.png"
+    },
+    {
+      "name": "Lorenzo stBTC",
+      "symbol": "stBTC",
+      "address": "0x95c0fd13373299ada1b9f09ff62473ab8b3908e6a30011730210c141dffdc990",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/stBTC.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2f6af255328fe11b88d840d1e367e946ccd16bd7ebddd6ee7e2ef9f7ae0c53ef",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/ezETH.png"
+    },
+    {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/weETH.png"
+    },
+    {
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "address": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/rsETH.png"
+    },
+    {
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
+      "address": "0xbf2efbffbbd7083aaf006379d96b866b73bb4eb9684a7504c62feafe670962c2",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/sfrxUSD.png"
+    },
+    {
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "address": "0xe4354602aa4311f36240dd57f3f3435ffccdbd0cd2963f1a69da39a2dbcd59b5",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/frxUSD.png"
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x9d146a4c9472a7e7b0dbc72da0eafb02b54173a956ef22a9fba29756f8661c6c",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/USDe.png"
+    },
+    {
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "address": "0x74f0c7504507f7357f8a218cc70ce3fc0f4b4e9eb8474e53ca778cb1e0c6dcc5",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/sUSDe.png"
     }
   ]
 }
