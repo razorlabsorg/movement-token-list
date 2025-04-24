@@ -1,5 +1,5 @@
 {
-  "https://raw.githubusercontent.com/razorlabsorg/chainlist/main/schema/razor-default.json": {
+  "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/master/schema/razor-default.json": {
     "name": "RazorDEX Default",
     "homepage": "https://app.razordex.xyz"
   }

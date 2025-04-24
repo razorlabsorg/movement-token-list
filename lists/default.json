@@ -19,7 +19,7 @@
     "symbol": "MOVE",
     "description": "Move Coin",
     "decimals": 8,
-    "image": "aptos/asset/MOVE.png",
+    "image": "assets/MOVE.png",
     "default": false,
     "coinGeckoId": "movement"
   },
@@ -30,7 +30,7 @@
     "symbol": "USDT.e",
     "description": "Tether USD",
     "decimals": 6,
-    "image": "aptos/asset/USDT.png",
+    "image": "assets/USDT.png",
     "default": false,
     "coinGeckoId": "tether"
   },
@@ -41,7 +41,7 @@
     "symbol": "USDC.e",
     "description": "USD Coin",
     "decimals": 6,
-    "image": "aptos/asset/USDC.png",
+    "image": "assets/USDC.png",
     "default": false,
     "coinGeckoId": "usd-coin"
   },
@@ -52,7 +52,7 @@
     "symbol": "WETH.e",
     "description": "Wrapped Ether",
     "decimals": 8,
-    "image": "aptos/asset/WETH.png",
+    "image": "assets/WETH.png",
     "default": false,
     "coinGeckoId": "weth"
   },
@@ -63,7 +63,7 @@
     "symbol": "WBTC.e",
     "description": "Wrapped Bitcoin",
     "decimals": 8,
-    "image": "aptos/asset/WBTC.png",
+    "image": "assets/WBTC.png",
     "default": false,
     "coinGeckoId": "wrapped-bitcoin"
   },
@@ -75,7 +75,7 @@
     "symbol": "USDT",
     "description": "Tether USD",
     "decimals": 6,
-    "image": "aptos/asset/USDT.png",
+    "image": "assets/USDT.png",
     "default": false,
     "coinGeckoId": "tether"
   },
@@ -87,7 +87,7 @@
     "symbol": "USDC",
     "description": "USD Coin",
     "decimals": 6,
-    "image": "aptos/asset/USDC.png",
+    "image": "assets/USDC.png",
     "default": false,
     "coinGeckoId": "usd-coin"
   },
@@ -99,7 +99,7 @@
     "symbol": "WETH",
     "description": "Wrapped Ether",
     "decimals": 8,
-    "image": "aptos/asset/WETH.png",
+    "image": "assets/WETH.png",
     "default": false,
     "coinGeckoId": "weth"
   },
@@ -111,7 +111,7 @@
     "symbol": "WBTC",
     "description": "Wrapped Bitcoin",
     "decimals": 8,
-    "image": "aptos/asset/WBTC.png",
+    "image": "assets/WBTC.png",
     "default": false,
     "coinGeckoId": "wrapped-bitcoin"
   },
@@ -122,7 +122,7 @@
     "symbol": "DAI",
     "description": "Dai Stablecoin",
     "decimals": 8,
-    "image": "aptos/asset/DAI.png",
+    "image": "assets/DAI.png",
     "default": false,
     "coinGeckoId": "dai"
   },
@@ -133,7 +133,7 @@
     "symbol": "BNB",
     "description": "Binance Coin",
     "decimals": 6,
-    "image": "aptos/asset/BNB.png",
+    "image": "assets/BNB.png",
     "default": false,
     "coinGeckoId": "wbnb"
   },
@@ -144,53 +144,9 @@
     "symbol": "SOL",
     "description": "Solana Coin",
     "decimals": 8,
-    "image": "aptos/asset/SOL.png",
+    "image": "assets/SOL.png",
     "default": false,
     "coinGeckoId": "solana"
-  },
-  {
-    "chainId": 250,
-    "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::MATIC",
-    "symbol": "MATIC",
-    "description": "Polygon Matic",
-    "decimals": 8,
-    "image": "aptos/asset/MATIC.png",
-    "default": false,
-    "coinGeckoId": "matic-network"
-  },
-  {
-    "chainId": 250,
-    "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
-    "symbol": "NEAR",
-    "description": "Near",
-    "decimals": 8,
-    "image": "aptos/asset/NEAR.png",
-    "default": false,
-    "coinGeckoId": "near"
-  },
-  {
-    "chainId": 250,
-    "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::TRON",
-    "symbol": "TRON",
-    "description": "Tron",
-    "decimals": 8,
-    "image": "aptos/asset/TRON.png",
-    "default": false,
-    "coinGeckoId": "tron"
-  },
-  {
-    "chainId": 250,
-    "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
-    "symbol": "RZR",
-    "description": "Razor Token",
-    "decimals": 8,
-    "image": "aptos/asset/RZR.png",
-    "default": false,
-    "coinGeckoId": "uniswap"
   },
   {
     "chainId": 250,
@@ -199,7 +155,7 @@
     "symbol": "stMOVE",
     "description": "Staked Testnet Move",
     "decimals": 8,
-    "image": "aptos/asset/stMOVE.png",
+    "image": "assets/stMOVE.png",
     "default": false,
     "coinGeckoId": "movement"
   },
@@ -210,7 +166,7 @@
     "symbol": "GMOON",
     "description": "MOONMOVERZ",
     "decimals": 8,
-    "image": "aptos/asset/GMOON.png",
+    "image": "assets/GMOON.png",
     "default": false
   },
   {
@@ -220,7 +176,7 @@
     "symbol": "WEUSD",
     "description": "WEUSD",
     "decimals": 6,
-    "image": "aptos/asset/WEUSD.png",
+    "image": "assets/WEUSD.png",
     "default": false
   },
   {
@@ -230,7 +186,7 @@
     "symbol": "PIPI",
     "description": "PIPI",
     "decimals": 6,
-    "image": "aptos/asset/PIPI.png",
+    "image": "assets/PIPI.png",
     "default": false
   }
 ]
