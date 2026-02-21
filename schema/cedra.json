@@ -29,7 +29,7 @@
     {
       "name": "Test Wrapped BTC",
       "symbol": "tWBTC",
-      "address": "0x985b809ac48046da1a3244ae21e14c07ecfdab9df3acc11b3c801be4ff8993b",
+      "address": "0x0985b809ac48046da1a3244ae21e14c07ecfdab9df3acc11b3c801be4ff8993b",
       "chainId": 2,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/movement-token-list/refs/heads/master/assets/WBTC.png"
